@@ -278,9 +278,6 @@ input[type=submit]:hover {
 /* For Tablet Devices */
 
   @media only screen and (min-width: 688px) and (max-width: 1024px) {
-    .header-part {
-        /* margin-left: 5%; */
-    }
     .header-part .header-content h1 {
         font-size: 42px;
     }
@@ -288,7 +285,7 @@ input[type=submit]:hover {
         margin-left: 0px;
     }
     .header-part .header-img img {
-        height: 310px;
+        height: 280px;
     }
     .blogs-section .blogs {
         display: grid;
