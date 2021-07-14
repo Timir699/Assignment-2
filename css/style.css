@@ -131,6 +131,7 @@ input[type=text],select {
     margin-top: 20px;
     margin-bottom: 20px;
     color: #707070;
+    font-size: 18px;
 }
 input[type=text]:focus {
     outline: none !important;
@@ -143,6 +144,7 @@ input[type=email] {
     border-radius: 5px;
     margin-bottom: 20px;
     color: #707070;
+    font-size: 18px;
 }
 input[type=email]:focus {
     outline: none !important;
